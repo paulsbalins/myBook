@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="The best smart water bottles, Drinkup Smart Water Bottle, Hidrate Spark 2.0, Bellabeat Spring, The Right Cup">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>Page 2</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="Page-2.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 3.27.0, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i">
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": ""
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Page 2">
+    <meta property="og:type" content="website">
+  </head>
+  <body class="u-body u-overlap u-overlap-transparent"> 
+    <section class="u-clearfix u-white u-section-1" id="sec-52bd">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-align-left u-palette-1-base u-shape u-shape-rectangle u-shape-1"></div>
+        <div class="u-container-style u-grey-15 u-group u-shape-rectangle u-group-1">
+          <div class="u-container-layout u-container-layout-1">
+            <img class="u-image u-image-default u-image-1" src="images/1290502808-0.jpeg" alt="" data-image-width="1463" data-image-height="1000">
+          </div>
+        </div>
+        <div class="u-align-left u-container-style u-expanded-width-sm u-group u-similar-fill u-group-2">
+          <div class="u-container-layout u-container-layout-2">
+            <h1 class="u-custom-font u-font-source-sans-pro u-text u-title u-text-1">My book</h1>
+            <p class="u-custom-font u-font-source-sans-pro u-large-text u-text u-text-variant u-text-2">Pauls Bāliņš,Rihards Paegļkalns,Dāvis Zgirskis</p>
+            <p class="u-text u-text-3">8.b</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-white u-section-2" id="sec-f0f9">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-clearfix u-gutter-20 u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout" style="">
+            <div class="u-layout-row" style="">
+              <div class="u-align-left-lg u-align-left-md u-container-style u-layout-cell u-right-cell u-similar-fill u-size-60 u-layout-cell-1">
+                <div class="u-container-layout u-valign-middle-lg">
+                  <h2 class="u-custom-font u-font-source-sans-pro u-text u-text-1">Diary of a wimpy kid</h2>
+                  <img class="u-image u-image-default u-image-1" src="images/9780141373010-us.jpg" alt="" data-image-width="318" data-image-height="500">
+                  <div class="u-container-style u-grey-10 u-group u-shape-rectangle u-group-1">
+                    <div class="u-container-layout u-valign-top u-container-layout-2">
+                      <h4 class="u-text u-text-body-color u-text-default u-text-2"> Greg Heffley talks about how he&nbsp;<a href="https://en.wikipedia.org/wiki/The_Truman_Show_delusion" title="The Truman Show delusion" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1">thinks his life is a reality TV show</a>&nbsp;and that everyone in his life is an actor. Later, when his mother, Susan, gives him money for the school book fair, she is disappointed when he buys toys instead of books and believes that Greg can discover new creative talents. Greg doubts this, recalling times he tried writing poems and failed an advanced placement test. He returns to the book fair to buy&nbsp;<i>
+                          <a href="https://en.wikipedia.org/wiki/Spinetinglers" title="Spinetinglers" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-2">Spineticklers</a></i>&nbsp;horror books, which reminds him of&nbsp;<a href="https://en.wikipedia.org/wiki/Halloween" title="Halloween" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-3">Halloween</a>&nbsp;approaching.
+                      </h4>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    
+    
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
+        <span>Website Templates</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
+      </p>
+      <a class="u-link" href="https://nicepage.com/" target="_blank">
+        <span>Website Builder Software</span>
+      </a>. 
+    </section>
+  </body>
+</html>
